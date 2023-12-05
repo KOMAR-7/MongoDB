@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "656e2008f44d614b14c0c41c"
+  },
+  "name": "Aash",
+  "age": 15,
+  "field": "di",
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "656e2480f44d614b14c0c41e"
+  },
+  "name": "Khan Omar",
+  "age": 19,
+  "field": "Comp",
+  "fulltime": true,
+  "registerDate": {
+    "$date": "2023-12-04T19:12:00.292Z"
+  },
+  "subjects": [
+    "Programming Language",
+    "OSY",
+    "DTE"
+  ],
+  "address": {
+    "street": "123 Madi Street",
+    "city": "Madisitic",
+    "zip": 555555
+  },
+  "graduationDate": null
+},
+{
+  "_id": {
+    "$oid": "656e1cf4f44d614b14c0c41b"
+  },
+  "name": "Madi",
+  "age": 18,
+  "field": "dr",
+  "fulltime": true
+},
+{
+  "_id": {
+    "$oid": "656eaedefe11665559578b85"
+  },
+  "name": "Ross",
+  "age": 14,
+  "field": "com",
+  "fulltime": false
+},
+{
+  "_id": {
+    "$oid": "656eaedefe11665559578b86"
+  },
+  "name": "Slaik",
+  "age": 17,
+  "field": "dr"
+}]
