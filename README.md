@@ -9,3 +9,5 @@ MongoDB isn't just a database; it's a game-changer in the realm of data manageme
 - Get started with the journey of Mongodb with the notes thats made easy and self explanatory. To get your understanding better I have provided examples to which you can go through.
 
 What are you waiting for Kickstart with MongoDB
+
+For any queries contact me: https://www.instagram.com/k.omar_7/
